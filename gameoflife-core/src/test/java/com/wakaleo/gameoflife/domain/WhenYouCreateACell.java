@@ -23,7 +23,7 @@ public class WhenYouCreateACell {
 
     @Test
     public void aLiveCellShouldBePrintedAsAnAsterisk() {
-        assertThat(Cell.LIVE_CELL.toString(), is("*"));  //Test by mjm 2015年11月20日
+        assertThat(Cell.LIVE_CELL.toString(), is("+"));  //Test by mjm 2015年11月20日， change * to +
     }
 
 
