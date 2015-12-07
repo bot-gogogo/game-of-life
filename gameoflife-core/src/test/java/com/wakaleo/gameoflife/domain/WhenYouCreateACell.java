@@ -6,7 +6,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;
 
 import org.junit.Test;
-
+//test git 2015年12月07日15:22:26
 public class WhenYouCreateACell {
 
     @Test
